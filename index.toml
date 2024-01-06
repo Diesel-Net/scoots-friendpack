@@ -5,11 +5,6 @@ file = "LICENSE"
 hash = "288e43c68879771c689d9e8842fe2b4683e177f927cd832448d823c504a34fd8"
 
 [[files]]
-file = "complementary-unbound.pw.toml"
-hash = "a6abfa266c4e0aebf5fc8e640768baedb08e7cdadbf7e1b209561be82d5fa9b6"
-metafile = true
-
-[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "a3d9d29881ae93abf981c45c83dbb2c91bce885168fcbceec82c4a6268692d51"
 metafile = true
@@ -467,4 +462,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/stay-true.pw.toml"
 hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "a6abfa266c4e0aebf5fc8e640768baedb08e7cdadbf7e1b209561be82d5fa9b6"
 metafile = true
