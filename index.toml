@@ -40,11 +40,6 @@ hash = "fcbd8cf6af2362f0cf604439c36134dceb65794743e6ad54d0efc9f5f8a8cf92"
 metafile = true
 
 [[files]]
-file = "mods/bountiful.pw.toml"
-hash = "959377544e5aecaaf0e87dfc10456926dd330c7fc91cca95e277686521f009be"
-metafile = true
-
-[[files]]
 file = "mods/callable-horses.pw.toml"
 hash = "e87bc30ef60440cd3f9055490e9f707c0dd3287e6cd50edfb20c9594428cd0f4"
 metafile = true
@@ -257,11 +252,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "b8ccdb6c421792758f82d52605253fec9e3255ef4e19aa88c06bdaba95b84f32"
-metafile = true
-
-[[files]]
-file = "mods/kambrik.pw.toml"
-hash = "b7d3d553250955d3b3a669647e66ef6c4c7a31ee07f04e308432acdebb87adb0"
 metafile = true
 
 [[files]]
