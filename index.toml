@@ -489,6 +489,11 @@ hash = "a6abfa266c4e0aebf5fc8e640768baedb08e7cdadbf7e1b209561be82d5fa9b6"
 metafile = true
 
 [[files]]
+file = "world/datapacks/better-villages-bountiful.pw.toml"
+hash = "f5c4f2b3a2bad442ad7dc0b3e0b704503215eb0d4cebf7e77588040f16f562c5"
+metafile = true
+
+[[files]]
 file = "world/serverconfig/create-server.toml"
 hash = "4c8d8df9701cb1a7fb56f6d07ae9e546462fbdcaacf05daf3982464505407cb4"
 
