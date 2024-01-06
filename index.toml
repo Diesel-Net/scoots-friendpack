@@ -460,11 +460,6 @@ hash = "97a03cf27afe3b50d3b9e97b79fda3e30a6d74e3b3c3fee3db28a4d7b20bc516"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-villages-bountiful.pw.toml"
-hash = "f5c4f2b3a2bad442ad7dc0b3e0b704503215eb0d4cebf7e77588040f16f562c5"
-metafile = true
-
-[[files]]
 file = "resourcepacks/stay-true.pw.toml"
 hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
 metafile = true
