@@ -494,5 +494,9 @@ hash = "a6abfa266c4e0aebf5fc8e640768baedb08e7cdadbf7e1b209561be82d5fa9b6"
 metafile = true
 
 [[files]]
+file = "world/serverconfig/create-server.toml"
+hash = "4c8d8df9701cb1a7fb56f6d07ae9e546462fbdcaacf05daf3982464505407cb4"
+
+[[files]]
 file = "world/serverconfig/fastleafdecay-server.toml"
 hash = "d8e4ff0b27f90b850e9b386920bf7d9e27ba4e3170c6e9cb549f2af5aeda6296"
