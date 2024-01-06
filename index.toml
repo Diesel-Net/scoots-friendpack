@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "288e43c68879771c689d9e8842fe2b4683e177f927cd832448d823c504a34fd8"
 
 [[files]]
+file = "config/alexsmobs.toml"
+hash = "f5732922665302d72ea541d2191cdb57b63b40fa8c4226d70ddddc41aa5233f5"
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "a3d9d29881ae93abf981c45c83dbb2c91bce885168fcbceec82c4a6268692d51"
 metafile = true
@@ -450,6 +454,11 @@ hash = "97a03cf27afe3b50d3b9e97b79fda3e30a6d74e3b3c3fee3db28a4d7b20bc516"
 metafile = true
 
 [[files]]
+file = "resourcepacks/stay-true-modded-compats.pw.toml"
+hash = "7aa06cc378142fd47deb8624824e0b8ff252dab4a7a799151d8561116cd55c96"
+metafile = true
+
+[[files]]
 file = "resourcepacks/stay-true.pw.toml"
 hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
 metafile = true
@@ -458,3 +467,7 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "a6abfa266c4e0aebf5fc8e640768baedb08e7cdadbf7e1b209561be82d5fa9b6"
 metafile = true
+
+[[files]]
+file = "world/serverconfig/fastleafdecay-server.toml"
+hash = "d8e4ff0b27f90b850e9b386920bf7d9e27ba4e3170c6e9cb549f2af5aeda6296"
