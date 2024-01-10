@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/coordinates-display.pw.toml"
-hash = "ca3b9c66e682890def43ce6d62c5bf75b5aacb09772429088d2166f16fb91977"
+hash = "6b41791324b0eacbca0ff771bf226d6e8814b62dc9d6c098ae0aa093073e19f5"
 metafile = true
 
 [[files]]
