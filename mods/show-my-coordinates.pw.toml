@@ -1,0 +1,13 @@
+name = "Show My Coordinates"
+filename = "show_my_coordinates_v1.1_1.20.1_[FORGE].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d01485921b362c9cf268d658553386debd4bd3f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4764608
+project-id = 852035
