@@ -44,11 +44,6 @@ hash = "fcbd8cf6af2362f0cf604439c36134dceb65794743e6ad54d0efc9f5f8a8cf92"
 metafile = true
 
 [[files]]
-file = "mods/borderless.pw.toml"
-hash = "a14e9890eca705a0f01d1825bd1b26501a0b99db4f112296382819171441e87d"
-metafile = true
-
-[[files]]
 file = "mods/bountiful.pw.toml"
 hash = "959377544e5aecaaf0e87dfc10456926dd330c7fc91cca95e277686521f009be"
 metafile = true
@@ -294,6 +289,11 @@ hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
 metafile = true
 
 [[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "f221e891a23945b613d8344783737ca6a420c599f82204c31d0aaebb7e2e45b1"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "2a8e4c7488ddd420fc432717b9f4e76cb4cfbf8f02f351c6cd8f0390dde778ad"
 metafile = true
@@ -341,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "54980224a747a23832727baac223d407fd22f1a42d7fd50345429b3e13ef5252"
-metafile = true
-
-[[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "f82994d608696a7eed15e347099a43c5a9ef168ab477f6029d35dffbd5b02083"
 metafile = true
 
 [[files]]
@@ -411,6 +406,11 @@ metafile = true
 [[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "5d3a6812ad065ed4e6d84824d053757ca9f798eb0e0ef9bc8a103aba950022e2"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "8fa597b487ad567a8d1f552bd70a6ed1e23e101630e0a993f354e8e4e7b8fc8e"
 metafile = true
 
 [[files]]
