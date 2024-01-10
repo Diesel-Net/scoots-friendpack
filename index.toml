@@ -9,6 +9,10 @@ file = "config/alexsmobs.toml"
 hash = "f5732922665302d72ea541d2191cdb57b63b40fa8c4226d70ddddc41aa5233f5"
 
 [[files]]
+file = "config/guicompass.json5"
+hash = "02515768e08607570ef895e001fcbfb8109afe4f20e044af2a6237f3dfea504e"
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "a3d9d29881ae93abf981c45c83dbb2c91bce885168fcbceec82c4a6268692d51"
 metafile = true
