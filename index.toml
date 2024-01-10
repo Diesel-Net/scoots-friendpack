@@ -114,6 +114,11 @@ hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
 
 [[files]]
+file = "mods/coordinates-display.pw.toml"
+hash = "ca3b9c66e682890def43ce6d62c5bf75b5aacb09772429088d2166f16fb91977"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "c1829724fc8399b466a60a2aee6a72251f55e1f7443c776094a01b952f3f8561"
 metafile = true
