@@ -1,0 +1,13 @@
+name = "Show My Coordinates"
+filename = "show_my_coordinates_v1.1_1.20.1_[FORGE].jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LhO0hpYi/versions/xeftQxuU/show_my_coordinates_v1.1_1.20.1_%5BFORGE%5D.jar"
+hash-format = "sha1"
+hash = "d01485921b362c9cf268d658553386debd4bd3f7"
+
+[update]
+[update.modrinth]
+mod-id = "LhO0hpYi"
+version = "xeftQxuU"

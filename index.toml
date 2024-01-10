@@ -9,6 +9,11 @@ file = "config/alexsmobs.toml"
 hash = "f5732922665302d72ea541d2191cdb57b63b40fa8c4226d70ddddc41aa5233f5"
 
 [[files]]
+file = "mods/ag-show-my-coordinates-mod.pw.toml"
+hash = "c342b806690c63600966f2b0cb113aa635b249e1d9a3bee2dc8cb42a48253df1"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "a3d9d29881ae93abf981c45c83dbb2c91bce885168fcbceec82c4a6268692d51"
 metafile = true
@@ -225,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/hud-texts.pw.toml"
-hash = "79690815145969fc221c87400e078131585991ed6c953857bc18424d1536f007"
+hash = "203812ee5b03fb31536afa69e3d1732e2a7252c2dc48b721753008fc3033d7f5"
 metafile = true
 
 [[files]]
@@ -351,11 +356,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "5a1192528bb03cab00ab6d81bffd6f89faa653b5385b8e1c03963c4d78e287e3"
-metafile = true
-
-[[files]]
-file = "mods/show-my-coordinates.pw.toml"
-hash = "d295ce5b1b31927435a0431cc3a80f93968cd3814ce384ceda69be0749eba9b4"
 metafile = true
 
 [[files]]
