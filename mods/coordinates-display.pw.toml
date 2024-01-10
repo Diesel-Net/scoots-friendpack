@@ -1,6 +1,6 @@
 name = "Coordinates Display"
 filename = "CoordinatesDisplay-4.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
