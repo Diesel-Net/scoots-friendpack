@@ -163,11 +163,6 @@ hash = "2a1eb851bbde3506fdb00e85466915ff5c19204aa220d487220d5671adb6913d"
 metafile = true
 
 [[files]]
-file = "mods/doespotatotick.pw.toml"
-hash = "9f58f714d07ae21df6f47553cd425c3411dcb3f0aeb283a0ef657431ec7eea8e"
-metafile = true
-
-[[files]]
 file = "mods/effect-tooltips.pw.toml"
 hash = "36798523a87111afaf2237cd610a73653487d9523a8576afda08d9fe1acf1129"
 metafile = true
